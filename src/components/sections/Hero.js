@@ -61,31 +61,32 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Landing template for <span className="text-color-primary">startups</span>
+              Subject of Proposal <span className="text-color-primary">Hero js location</span>
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.
-                </p>
+Literal subhead/proposal thesis right here I bet       lorem ipsum   lorem ipsum lorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum       </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
-                    Get started
+                  <Button tag="a" color="primary" wideMobile >
+                    Filler, not sure if I'll keep 
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/open-react-template/">
-                    View on Github
+                  <Button tag="a" color="dark" wideMobile>
+                  Filler, not sure if I'll keep 
                     </Button>
                 </ButtonGroup>
               </div>
             </div>
           </div>
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
+            <p>Maybe fuck with this video?  Link something important?</p>
             <a
               data-video="https://player.vimeo.com/video/174002812"
               href="#0"
               aria-controls="video-modal"
               onClick={openModal}
             >
+              <p>IMAGE LINK TO VIDEO?</p>
               <Image
                 className="has-shadow"
                 src={require('./../../assets/images/video-placeholder.jpg')}
