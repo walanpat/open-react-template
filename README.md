@@ -1,1 +1,1 @@
-<meta http-equiv="Refresh" content="2; url=public/index.html">
+why won't this work
