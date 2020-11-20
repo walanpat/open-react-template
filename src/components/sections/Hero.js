@@ -61,32 +61,32 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Subject of Proposal <span className="text-color-primary">Hero js location</span>
+               <span className="text-color-primary">Expression and Possession</span>
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-Literal subhead/proposal thesis right here I bet       lorem ipsum   lorem ipsum lorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum       </p>
+                A glimpse into the masculine power dynamic of spirit possession and expression  </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
                   <Button tag="a" color="primary" wideMobile >
-                    Filler, not sure if I'll keep 
+                    Reccommended Reading
                     </Button>
                   <Button tag="a" color="dark" wideMobile>
-                  Filler, not sure if I'll keep 
+                  Reccommended Reading
                     </Button>
                 </ButtonGroup>
               </div>
             </div>
           </div>
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
-            <p>Maybe fuck with this video?  Link something important?</p>
+            <p>Defining Spirit Possession Video?</p>
             <a
               data-video="https://player.vimeo.com/video/174002812"
               href="#0"
               aria-controls="video-modal"
               onClick={openModal}
             >
-              <p>IMAGE LINK TO VIDEO?</p>
+              <p></p>
               <Image
                 className="has-shadow"
                 src={require('./../../assets/images/video-placeholder.jpg')}
