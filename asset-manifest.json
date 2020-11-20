@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/open-react-template/static/css/main.e7600209.chunk.css",
+    "main.js": "/open-react-template/static/js/main.206161d8.chunk.js",
+    "main.js.map": "/open-react-template/static/js/main.206161d8.chunk.js.map",
+    "runtime-main.js": "/open-react-template/static/js/runtime-main.569e6db8.js",
+    "runtime-main.js.map": "/open-react-template/static/js/runtime-main.569e6db8.js.map",
+    "static/js/2.6b233028.chunk.js": "/open-react-template/static/js/2.6b233028.chunk.js",
+    "static/js/2.6b233028.chunk.js.map": "/open-react-template/static/js/2.6b233028.chunk.js.map",
+    "index.html": "/open-react-template/index.html",
+    "precache-manifest.58e6e0b8022ec597db87ce20275bb874.js": "/open-react-template/precache-manifest.58e6e0b8022ec597db87ce20275bb874.js",
+    "service-worker.js": "/open-react-template/service-worker.js",
+    "static/css/main.e7600209.chunk.css.map": "/open-react-template/static/css/main.e7600209.chunk.css.map",
+    "static/js/2.6b233028.chunk.js.LICENSE.txt": "/open-react-template/static/js/2.6b233028.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/open-react-template/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/open-react-template/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/open-react-template/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/open-react-template/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/open-react-template/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/open-react-template/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/open-react-template/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/features-split-image-01.png": "/open-react-template/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/open-react-template/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/open-react-template/static/media/features-split-image-03.87e4d053.png",
+    "static/media/j.jpg": "/open-react-template/static/media/j.a5b364c4.jpg",
+    "static/media/studentlogo.png": "/open-react-template/static/media/studentlogo.94a58fb3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.569e6db8.js",
+    "static/js/2.6b233028.chunk.js",
+    "static/css/main.e7600209.chunk.css",
+    "static/js/main.206161d8.chunk.js"
+  ]
+}
