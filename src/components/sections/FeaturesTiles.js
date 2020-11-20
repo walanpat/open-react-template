@@ -55,7 +55,8 @@ const FeaturesTiles = ({
     >
       <div className="container">
         <div className={innerClasses}>
-          <SectionHeader data={sectionHeader} className="center-content" />
+          <span className='text-color-primary'>
+          <SectionHeader data={sectionHeader} className="center-content" /></span>
           <div className={tilesClasses}>
 
             <div className="tiles-item reveal-from-bottom">
@@ -168,7 +169,7 @@ const FeaturesTiles = ({
               </div>
             </div>
 
-            {/* <div className="tiles-item reveal-from-bottom" data-reveal-delay="400">
+             <div className="tiles-item reveal-from-bottom" data-reveal-delay="400">
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
@@ -181,14 +182,14 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                  I NEED ONE MORE
+                  Healing
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    Spirit possession often acts as a method of healing the individual.  Driving out the spirits can often end an affliction and the act of being possessed can provide healing itself.
                     </p>
                 </div>
               </div>
-            </div> */}
+            </div>
 
           </div>
         </div>
